@@ -1,5 +1,5 @@
-# Seattle_analysis
-Seattle house sales analysis 
+
+# Seattle house sales analysis 
 The goal of analysis was to increase effectiveness of selecting houses for renovation and resale , in addition to that I had to investigate and show sales pattern over the year and week 
 
 Files:
